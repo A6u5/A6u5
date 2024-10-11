@@ -66,8 +66,8 @@ I'd like to get in touch with the following topics:
 
 You can e-mail me directly, get in touch through the account(s) below!
 
-[![Linkedin Badge](https://img.shields.io/badge/Agustín_Torres-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/agustín-torres-39813326a)
-[![Portfolio Badge](http://img.shields.io/badge/DevLog-check_out_my_portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](a6u5.github.io/Mi-Portafolio/)
+[![Linkedin Badge](https://img.shields.io/badge/Agustín_Torres-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agustín-torres-39813326a)
+[![Portfolio Badge](http://img.shields.io/badge/DevLog-check_out_my_portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/A6u5/Mi-Portafolio)
 
 <div align="center">
 
