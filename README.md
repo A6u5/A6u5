@@ -2,7 +2,7 @@
 
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Agustín+Torres!+%F0%9F%91%8B)
 
-I'm from Santa Fe, Argentina. <img alt="Argentina" width="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M5N3NxNGlqbHgwcjJmbDJhcWFwZTd1d2gzaHozZ2IxZ2Q1ejI1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gh5OAdb6wvYFX1hTnP/giphy.webp">
+I'm from Rosario, Santa Fe, Argentina. <img alt="Argentina" width="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M5N3NxNGlqbHgwcjJmbDJhcWFwZTd1d2gzaHozZ2IxZ2Q1ejI1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gh5OAdb6wvYFX1hTnP/giphy.webp">
 
 I'm an enthusiastic Junior Web Developer and a Computer Science & System Analytics student, focused on working with challenging projects and having fun while working.
 
