@@ -23,7 +23,7 @@ I'm an enthusiastic Junior Web Developer and a Computer Science & System Analyti
   <tr>
     <td>
 		<a href="https://a6u5.github.io/Travel-List/">
-			<img src="https://drive.google.com/file/d/1dVxuvw36YOcmKTNEIFT87liukiW7uzU5/view?usp=sharing" />
+			<img src="https://github.com/A6u5/Travel-List/blob/main/public/Travel%20List.png" />
 		</a>
 	</td>
     <td>
