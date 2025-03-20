@@ -4,7 +4,7 @@
 
 I'm from Rosario, Santa Fe, Argentina. <img alt="Argentina" width="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M5N3NxNGlqbHgwcjJmbDJhcWFwZTd1d2gzaHozZ2IxZ2Q1ejI1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gh5OAdb6wvYFX1hTnP/giphy.webp">
 
-I'm an enthusiastic junior web developer and a Computer Science student, majoring in AI and Systems Analysis, focused on working on challenging projects and having fun while I work.
+I'm an enthusiastic junior web developer and a Computer Science, AI technology & Systems Analysis student, focused on working on challenging projects and having fun while I work.
 
 ![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=A6u5&show_icons=true&theme=react)
 <img aling="right" alt="PC" width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU3bHEwcHI5bW9hMWZqNGppN2piOHJjb3Q5eDkzb3VjOXU2eW9rNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.webp">
