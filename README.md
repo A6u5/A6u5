@@ -27,17 +27,17 @@ I'm an enthusiastic junior web developer and a Computer Science, AI technology &
 		</a>
 	</td>
     <td>
-		<a href="a6u5.github.io/TinDog/">
+		<a href="https://a6u5.github.io/TinDog/">
 			<img src="https://drive.google.com/uc?id=1DKiWfNNKlX2_MYr6FvWO90IiVI1d20l_" />
 		</a>
 	</td>
     <td>
-		<a href="a6u5.github.io/Move-It/">
+		<a href="https://a6u5.github.io/Move-It/">
 			<img src="https://drive.google.com/uc?id=1MVNwLQq2E0GX5LW-q92F6fSOA3-yFi-A" />
 		</a>
 	</td>
     <td>
-		<a href="a6u5.github.io/Dice-Game/">
+		<a href="https://a6u5.github.io/Dice-Game/">
 			<img src="https://drive.google.com/uc?id=161zFBqNegMs-b_Z9Q5RFwAuCwJqIPbzP" />
 		</a>
 	</td>
