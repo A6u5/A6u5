@@ -24,12 +24,12 @@ I'm an enthusiastic junior web developer and a Computer Science, AI technology &
   <tr>
     <td>
 		<a href="https://a6u5.github.io/Travel-List/">
-			<img src="https://github.com/A6u5/Travel-List/blob/main/public/Travel%20List.png" />
+			<img src="https://drive.google.com/uc?id=1dVxuvw36YOcmKTNEIFT87liukiW7uzU5" />
 		</a>
 	</td>
 	<td>
 		<a href="https://a6u5.github.io/Pomodoro-App/">
-			<img src="https://raw.githubusercontent.com/A6u5/Pomodoro-App/refs/heads/main/assets/img/Pomodoro-image.png" />
+			<img src="https://drive.google.com/uc?id=10TUZ9RknranrN4hdh4wKwPZi30X-cmcg" />
 		</a>
 	</td>
     <td>
